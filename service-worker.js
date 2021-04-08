@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3f5ff95385f0a9b9bee193d1a3a0a1ed.js"
+  "/precache-manifest.1fda771c9edf935ff7ebf32d3bb6b805.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "meditatii-client"});
